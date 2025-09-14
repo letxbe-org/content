@@ -5,7 +5,7 @@ title: The order of cosets equals the order of a subgroup
 
 ## Statement
 
-Let $G$ be a [group](@group) and $H \le G$ be a [subgroup](@subgroup). Then the [order](@order) of the [coset](@coset) $gH$ equals the order of the subgroup $H$.
+Let $G$ be a [group](@group) and $H \le G$ be a [subgroup](@subgroup). Then the [order](@order) of the [coset](@coset) $gH$ equals the order of the subgroup $H$. That is, $|gH|=|H|$.
 
 ## Proof
 
