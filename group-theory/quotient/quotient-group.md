@@ -8,3 +8,5 @@ Let $G$ be a [group](@group) and $N \trianglelefteq G$ a [normal subgroup](@norm
 Define the [binary operation](@binary-operation) $*$ called **coset multiplication** on the [set of cosets](@set-of-cosets) $G/N$ by $aN * bN = (ab)N$.
 
 The **quotient group** $G/N$ is the [set](@set-of-cosets) $G/N$ with the [binary operation](@binary-operation) $*$.
+
+In [@](!@quotient-group-is-group), we will prove that the quotient group is indeed a group.
